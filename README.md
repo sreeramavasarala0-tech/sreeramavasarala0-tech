@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=2C9FC9&center=true&vCenter=true&width=640&lines=I+don't+ship+a+single+accuracy+number.;Cross-validation.+Significance+tests.+SHAP.;Currently%3A+testing+whether+RAG+actually+reduces+hallucination.;Python+%E2%80%A2+PySpark+%E2%80%A2+Snowflake+%E2%80%A2+Scikit-learn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=2C9FC9&center=true&vCenter=true&width=640&lines=I+don%27t+ship+a+single+accuracy+number.;Cross-validation.+Significance+tests.+SHAP.;Currently%3A+testing+whether+RAG+actually+reduces+hallucination.;Python+%E2%80%A2+PySpark+%E2%80%A2+Snowflake+%E2%80%A2+Scikit-learn" alt="Typing SVG" />
   </a>
 </p>
 
