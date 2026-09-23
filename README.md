@@ -73,7 +73,7 @@ Predicting diabetes and CVD risk by fusing **4 public datasets** (BRFSS, EPA AQS
 
 Nested RF / LogReg / XGBoost, stratified 5-fold CV, MICE-PMM imputation of 3,900+ missing values, SHAP with paired bootstrap validation. Separated environmentally driven CVD risk from lifestyle-driven diabetes risk for geo-targeted screening.
 
-[**→ Repository**](https://github.com/sreeramavasarala0-tech/REPO-NAME)
+[**→ Repository**](https://github.com/sreeramavasarala0-tech/chronic-disease-prediction)
 
 </td>
 <td width="50%" valign="top">
@@ -85,7 +85,7 @@ A telecom churn classifier built to give retention teams **3 clear levers instea
 
 Correlation analysis and multicollinearity reduction surfaced contract type, tenure, and monthly charges. Streamlit + Plotly dashboards (confusion matrix, ROC, lift/gain) let non-technical teams evaluate the model and target at-risk customers on their own.
 
-[**→ Repository**](https://github.com/sreeramavasarala0-tech/REPO-NAME)
+[**→ Repository**](https://github.com/sreeramavasarala0-tech/customer-churn-prediction)
 
 </td>
 </tr>
@@ -99,7 +99,7 @@ A full-stack platform unifying tutor matching, session booking, ratings, and stu
 
 3-tier REST architecture with JWT + bcrypt auth. Turned manual scheduling into self-service, with Gemini-powered tutoring recommendations and full accessibility across desktop, tablet, and mobile.
 
-[**→ Repository**](https://github.com/sreeramavasarala0-tech/REPO-NAME)
+[**→ Repository**](https://github.com/sreeramavasarala0-tech/Peer-tut--Platform)
 
 </td>
 <td width="50%" valign="top">
@@ -109,7 +109,7 @@ The controlled research study described above. Code, knowledge base, and evaluat
 
 `FAISS` `ChromaDB` `Embeddings` `McNemar's test`
 
-[**→ Repository**](https://github.com/sreeramavasarala0-tech/REPO-NAME)
+[**→ Repository**](https://github.com/sreeramavasarala0-tech/CortexIQ-RAG-Hallucination-Study)
 
 </td>
 </tr>
